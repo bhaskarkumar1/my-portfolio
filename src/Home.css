@@ -1,0 +1,34 @@
+.Home{
+    background-color:pink ;
+    display: flex;
+    justify-content: center;
+    padding-left: 5rem;
+    padding-right: 3rem;
+    padding-top: 3rem;
+} 
+
+h5{
+        font-size: 3rem;
+}
+
+.left-part{
+    width: 50%;
+    font-size: 3rem;
+    padding-bottom:2rem ;
+}
+
+.pro-icon {
+    padding-top: 2rem;
+}
+
+.pro-icon a{
+    padding-right: 1rem;
+}
+
+.right-part img{
+    width: auto;
+    padding-top: 6rem;
+    padding-left: 10rem;
+    width:45%;
+     height:55%;
+}
